@@ -9,7 +9,7 @@ This web is fully authenticate because of following reason
 2) User cannot directly go to profile page without login because middleware has been used in this web
 3) Token based verification ,Reset Password and User verify
 
-## Tech Stack
+## Tech Stack :dart:
 1) Mongodb
 2) Mailtrap
 3) Next Js
